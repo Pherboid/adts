@@ -11,11 +11,11 @@ class Stack
 private:
 
       vector<int> data;
-  
+
 
 public:
 
-    // No default c'tor needs to be declared 
+    // No default c'tor needs to be declared
     // The vector "knows" how to initialize itself
 
 
